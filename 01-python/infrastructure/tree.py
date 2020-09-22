@@ -1,3 +1,11 @@
 def draw_tree():
-    print("tree not found")
+    while (n > 0):
+        print("        ####     / \       /\      ### ")
+        print("      #######   /   \     /  \    #####       ")
+        print("      ##||##   /     \   /    \    #####     ")
+        print("     ## ||    /       \ /------\  #####            ")
+        print("      #\||   /---------\   ||    ##||##         ")
+        print("        ||        ||       ||      ||      ")
+        print("        ||        ||       ||      ||      ")
+        n=n-1
     return
